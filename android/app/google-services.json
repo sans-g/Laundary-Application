@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797366890504",
+    "firebase_url": "https://laundary-app-72418.firebaseio.com",
+    "project_id": "laundary-app-72418",
+    "storage_bucket": "laundary-app-72418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797366890504:android:d4d962bbd7e7800b24a1bd",
+        "android_client_info": {
+          "package_name": "com.aeologic.laundary_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797366890504-mv3215k2m55lu9299mof73p434s3bidv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVj3c5QANPi2Zog0A5rwhZ5_k13zYpqCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797366890504-mv3215k2m55lu9299mof73p434s3bidv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
