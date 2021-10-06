@@ -16,3 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 ![GIF-211006_185100](https://user-images.githubusercontent.com/52839335/136211053-9fc60232-8a80-4aeb-b3e5-097f68669405.gif)
 [laundryApp.zip](https://github.com/sans-g/Laundary-Application/files/7294797/laundryApp.zip)
+## Screenshots
+
+<img src="https://i.imgur.com/RkRpN48.jpg" width="200" /><span>      </span><img src="https://i.imgur.com/PRIGmVV.jpg" width="200" /> </span><img src="https://i.imgur.com/NudS9Wf.jpg" width="200" /> </span><img src="https://i.imgur.com/rYW8XVo.jpg" width="200" /> </span><img src="https://i.imgur.com/irrYtDb.jpg" width="200" /> </span><img src="https://i.imgur.com/60ExyXs.jpg" width="200" /> </span><img src="https://i.imgur.com/CKNxVUE.jpg" width="200" /> </span><img src="https://i.imgur.com/qP7MUQP.jpg" width="200" /> </span><img src="https://i.imgur.com/a480mMK.jpg" width="200" /> </span><img src="https://i.imgur.com/a480mMK.jpg" width="200" />
